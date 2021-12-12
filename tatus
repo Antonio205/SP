@@ -1,0 +1,44 @@
+[33mcommit 14065f454d748c913ab294ce73981a64e70a5faa[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Antonio205 <78850485+Antonio205@users.noreply.github.com>
+Date:   Wed Dec 1 08:14:39 2021 +0300
+
+    Initial commit
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..259148f[m
+[1m--- /dev/null[m
+[1m+++ b/.gitignore[m
+[36m@@ -0,0 +1,32 @@[m
+[32m+[m[32m# Prerequisites[m
+[32m+[m[32m*.d[m
+[32m+[m
+[32m+[m[32m# Compiled Object files[m
+[32m+[m[32m*.slo[m
+[32m+[m[32m*.lo[m
+[32m+[m[32m*.o[m
+[32m+[m[32m*.obj[m
+[32m+[m
+[32m+[m[32m# Precompiled Headers[m
+[32m+[m[32m*.gch[m
+[32m+[m[32m*.pch[m
+[32m+[m
+[32m+[m[32m# Compiled Dynamic libraries[m
+[32m+[m[32m*.so[m
+[32m+[m[32m*.dylib[m
+[32m+[m[32m*.dll[m
+[32m+[m
+[32m+[m[32m# Fortran module files[m
+[32m+[m[32m*.mod[m
+[32m+[m[32m*.smod[m
+[32m+[m
+[32m+[m[32m# Compiled Static libraries[m
+[32m+[m[32m*.lai[m
+[32m+[m[32m*.la[m
+[32m+[m[32m*.a[m
+[32m+[m[32m*.lib[m
+[32m+[m
+[32m+[m[32m# Executables[m
+[32m+[m[32m*.exe[m
+[32m+[m[32m*.out[m
+[32m+[m[32m*.app[m
