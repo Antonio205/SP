@@ -1,0 +1,8 @@
+﻿  functional.cpp
+     Creating library ..\MainProgram\Functional.lib and object ..\MainProgram\Functional.exp
+  Generating code
+  8 of 8 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Functional.vcxproj -> c:\Системное программирование\Лабораторная работа №5\Lab5_SP\Functional\..\MainProgram\Functional.dll
