@@ -1,0 +1,8 @@
+﻿  Plugin.cpp
+c:\системное программирование\лабораторная работа №5\lab5_sp\plugin1\plugin.cpp(34): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'LPVOID'
+c:\системное программирование\лабораторная работа №5\lab5_sp\plugin1\plugin.cpp(36): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'LPVOID'
+     Creating library ..\MainProgram\Plugins\Plugin1.lib and object ..\MainProgram\Plugins\Plugin1.exp
+  Generating code
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Plugin1.vcxproj -> c:\Системное программирование\Лабораторная работа №5\Lab5_SP\Plugin1\..\MainProgram\Plugins\Plugin1.dll

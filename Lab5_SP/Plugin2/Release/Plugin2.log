@@ -1,0 +1,6 @@
+﻿  Plugin.cpp
+     Creating library ..\MainProgram\Plugins\Plugin2.lib and object ..\MainProgram\Plugins\Plugin2.exp
+  Generating code
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Plugin2.vcxproj -> c:\Системное программирование\Лабораторная работа №5\Lab5_SP\Plugin2\..\MainProgram\Plugins\Plugin2.dll
